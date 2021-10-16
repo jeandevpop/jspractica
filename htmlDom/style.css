@@ -1,0 +1,14 @@
+h1{
+    color: crimson;
+    background-color: darkkhaki;
+}
+.todos{
+    font-size: large;
+    color: darkgreen;
+}
+
+.done{
+    color: gray;
+    text-decoration: line-through;
+    font-size: smaller;
+}

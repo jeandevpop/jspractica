@@ -1,0 +1,11 @@
+.divC{
+    height: 100px;
+    width: 100px;
+   
+}
+div.dv{
+     display: flex;
+align-content: center;
+    text-align: center;
+    
+}
